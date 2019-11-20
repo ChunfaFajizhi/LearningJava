@@ -8,3 +8,8 @@ Then switch to
 
 2019/11/18
 maven is tested, a build tool.
+
+Apache2 server.
+2019/11/19
+$ /etc/init.d/apache2
+Usage: apache2 {start|stop|graceful-stop|restart|reload|force-reload}
