@@ -1,0 +1,13 @@
+1, getClass() is dynamic method, should not used in static void main()
+Cannot make a static reference to the non-static method getClass() from the type Object
+
+2, for main methods
+It should define the main method as:
+   public static void main(String[] args)
+ 
+ 
+ 
+    slf4j-api-1.7.28.jar_______________for methods
+    slf4j-simple-1.7.28.jar____________for binding
+    
+  3,when using other class---------> change the main function to other name, then refer to it.
