@@ -5,3 +5,8 @@ Available lifecycle phases are: validate, initialize, generate-sources, process-
 process-resources, compile, process-classes, generate-test-sources, process-test-sources, generate-test-resources, 
 process-test-resources, test-compile, process-test-classes,
 
+in pom.xml
+<properties>
+    <maven.compiler.source>1.6</maven.compiler.source>
+    <maven.compiler.target>1.6</maven.compiler.target>
+  </properties>
