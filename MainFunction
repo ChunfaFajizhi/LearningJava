@@ -6,6 +6,16 @@ public static void main (String[] args){
 
 
 # Cracking the code of interview
-Overloading vs overriding
+#_______Overloading vs overriding
 overloading is a term used to discribe when two methods have the same name but differ in the type or number of arguments
 overriding, however, occurs when a method share the same name and function signature as another method in iys super class 
+#_________Collection framework
+1,Private constructor
+2,Return from finally
+3,Final,etc
+4,Generic vs.Templates
+5,Treemap,HashMap,LinkedHashMap
+6,Object Reflection
+7,Lambda Expressions
+8,Lambda Random
+
