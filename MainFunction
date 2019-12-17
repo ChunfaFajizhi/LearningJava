@@ -3,3 +3,9 @@ public static void main (String[] args){
   System.out.println("First writing sentence");
   }
   }
+
+
+# Cracking the code of interview
+Overloading vs overriding
+overloading is a term used to discribe when two methods have the same name but differ in the type or number of arguments
+overriding, however, occurs when a method share the same name and function signature as another method in iys super class 
