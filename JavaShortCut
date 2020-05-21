@@ -1,0 +1,21 @@
+1,fix everything
+  ALT+J
+2,Code generation
+  ALT+Insert
+3,Rename
+ SHIFT+F6
+4,FIND Usage
+  Alt+F7
+5, Show Parameters
+  CTL+P
+6, Goto Class
+  CTL+N
+7,Comments Line
+  Ctl+/
+8, Surround with
+  Ctl+Alt+T
+9, Show Occurence
+  Alt+J
+10, Move line
+ Shift+Ctl/Alt+Cursor
+ 
